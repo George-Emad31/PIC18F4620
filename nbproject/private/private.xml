@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/application.h</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/ECU_Layer/LED/ecu_led.h</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/ECU_Layer/LED/ecu_led.c</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/compile.h</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/application.c</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/GPIO/std_libraries.h</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/GPIO/device_config.c</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/device_config.c</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/GPIO/mcal_std_types.h</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/Makefile</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/GPIO/hal_gpio.c</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/device_config.h</file>
+            <file>file:/C:/Users/georg/OneDrive/Desktop/PIC/MCAL_LAYER/GPIO/hal_gpio.h</file>
+        </group>
+    </open-files>
+</project-private>
